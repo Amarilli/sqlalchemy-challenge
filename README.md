@@ -62,7 +62,7 @@ I created a Flask API based on the queries I just developed using Flask to creat
 
 - Return the JSON representation of your dictionary.
 
-  ! [precipitations](https://github.com/Amarilli/sqlalchemy-challenge/blob/main/Resources/precipitations.png)
+  ![precipitations](https://github.com/Amarilli/sqlalchemy-challenge/blob/main/Resources/precipitations.png)
 
 3. `/api/v1.0/stations`
 
