@@ -76,7 +76,7 @@ I created a Flask API based on the queries I just developed using Flask to creat
 
 - Return a JSON list of temperature observations for the previous year.
 
-  ![tobs_api](https://github.com/Amarilli/sqlalchemy-challenge/blob/main/Resources/tobs_api.png)
+  ![tobs-api](https://github.com/Amarilli/sqlalchemy-challenge/blob/main/Resources/tobs-api.png)
 
 5. `/api/v1.0/<start>` and `/api/v1.0/<start>/<end>`
 
